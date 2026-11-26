@@ -1,5 +1,9 @@
 {
-  "version": "1.1.0",
-  "notes": "第一版：长安大学学术活动自动报名 + QQ 群收集表秒填",
-  "url": "https://gh-proxy.com/https://github.com/shengmo520/chd-xshd-grab-dist/releases/download/v1.1.0/xshd-grab-1.1.0.exe"
+  "notes": "授权版：只有名单里的学号能抢",
+  "updated": "2026-11-26 23:11:31",
+  "version": "1.1.1",
+  "url": "https://github.com/shengmo520/chd-xshd-grab-dist/releases/download/v1.1.0/xshd-grab-1.1.1-f4adb702.exe",
+  "allow": [
+    "cc00b604b30e7e52"
+  ]
 }
